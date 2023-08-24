@@ -1,4 +1,4 @@
-package constants;
+package org.crotich.constants;
 
 public class constants {
 
