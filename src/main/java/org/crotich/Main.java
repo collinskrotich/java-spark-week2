@@ -51,7 +51,6 @@ public class Main {
             return null;
         });
 
-
         post("/create-weakness", (req, res)->{
 
             String name = req.queryParams("name");
